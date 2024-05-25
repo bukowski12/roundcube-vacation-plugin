@@ -118,8 +118,8 @@ class Virtual extends VacationDriver {
 
         // Save vacation message in any case
 
-	      // LIMIT date arbitrarily put to next century (vacation.pl doesn't like NULL value)
-        $interval = $this->db_is_postgres ? "INTERVAL '100 YEAR'" : 'INTERVAL 100 YEAR';
+	// LIMIT date arbitrarily put to next century (vacation.pl doesn't like NULL value)
+        $interval = $this->db_is_postgres ? "INTERVAL '100 YEAR'" : 'INTERVAL 5 YEAR';
         if (!$update) {
             $sql = "INSERT INTO {$this->cfg['dbase']}.vacation ".
                 "( email, subject, body, cache, domain, created, active, activefrom, activeuntil ) ".
