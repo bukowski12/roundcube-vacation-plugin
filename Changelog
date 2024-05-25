@@ -1,5 +1,8 @@
 CHANGELOG for the Roundcube vacation plugin
 
+Version 2.1.5-20240525
+- activeuntil interval defaults bugfix
+
 Version 2.1.4-20231215
 - upgrade for PHP 8 compatibility
 
