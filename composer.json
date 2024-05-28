@@ -5,7 +5,7 @@
     "keywords": ["mail","vacation","forward"],
     "homepage": "https://github.com/bukowski12/roundcube-vacation-plugin",
     "license": "GPL-3.0+",
-    "version": "2.1.2",
+    "version": "2.1.5",
     "authors": [
         {
             "name": "Roman Plessl",
