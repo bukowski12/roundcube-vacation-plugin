@@ -6,9 +6,9 @@
  * @package	plugins
  * @uses	rcube_plugin
  * @author	Jasper Slits <jaspersl@gmail.com>
- * @version	1.9
- * @license     GPL
- * @link	https://sourceforge.net/projects/rcubevacation/
+ * @version	2.1.5
+ * @license	GPL
+ * @link	https://github.com/bukowski12/roundcube-vacation-plugin
  * @todo	See README.TXT
 */
 
