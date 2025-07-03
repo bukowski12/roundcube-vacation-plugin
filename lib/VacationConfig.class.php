@@ -67,9 +67,9 @@ class VacationConfig
         // Get normalized hostname
 	public function setCurrentHost($host)
 	{
-		if (! $this->currentHost = parse_url($host,PHP_URL_HOST))
+		if (! $this->currentHost = parse_url($host ?? '',PHP_URL_HOST))
 		{
-			$this->currentHost = parse_url($host,PHP_URL_PATH);
+			$this->currentHost = parse_url($host ?? '',PHP_URL_PATH);
 		}
 	}
 
