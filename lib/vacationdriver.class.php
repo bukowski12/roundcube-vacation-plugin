@@ -5,10 +5,10 @@
  * @package	plugins
  * @uses	rcube_plugin
  * @author	Jasper Slits <jaspersl@gmail.com>
- * @version	2.1.6
+ * @version	2.1.7
  * @license     GPL
  * @link	https://github.com/bukowski12/roundcube-vacation-plugin
- * @todo	See README.TXT
+ * @todo	See README.md
  */
 
 abstract class VacationDriver {

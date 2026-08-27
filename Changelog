@@ -1,5 +1,9 @@
 CHANGELOG for the Roundcube vacation plugin
 
+Version 2.1.7-20260710
+- compatibility bugfix for php 8.x.
+- compatibility for roundcube 1.7.x and above
+
 Version 2.1.6-20260101
 - null value compatibility fix for php 8.1
 
@@ -51,7 +55,7 @@ Version 20100304
 - [vacationconfig] Specifies required settings per driver for config.ini
 
 Version 20100227
-- [Documentation] Rewrote documention in INSTALL.TXT and README.TXT
+- [Documentation] Rewrote documention in INSTALL.TXT and README.md
 - [setuid] Aliases weren't used.
 - [setuid] Check for correct user when executing setuid binary
 - [virtual] Added better error checking after executing queries.
@@ -139,7 +143,7 @@ Version 20090908
 - Added database schema for vacation tables
 - Renamed config.php to config.inc.php
 - Introducing /etc/postfixadmin/vacation.conf which gets generated using config.inc.php
-- Added README.TXT with security notes and installation notes
+- Added README.md with security notes and installation notes
 
 Version 20090905
 - Minor fix to setting enabled var

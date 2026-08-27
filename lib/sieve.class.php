@@ -5,10 +5,10 @@
  * @package	plugins
  * @uses	rcube_plugin, managesieve
  * @author	Jasper Slits <jaspersl@gmail.com>
- * @version	2.1.6
+ * @version	2.1.7
  * @license	GPL
  * @link	https://github.com/bukowski12/roundcube-vacation-plugin
- * @todo	See README.TXT
+ * @todo	See README.md
  * 
  * Based on ManageSieve plugin by Aleksander 'A.L.E.C' Machniak <alec at alec dot pl>
  * 
