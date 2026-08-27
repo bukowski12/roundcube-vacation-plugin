@@ -9,7 +9,7 @@
  * @version	2.1.6
  * @license	GPL
  * @link	https://github.com/bukowski12/roundcube-vacation-plugin
- * @todo	See README.TXT
+ * @todo	See README.md
  */
 
 // Load required dependencies

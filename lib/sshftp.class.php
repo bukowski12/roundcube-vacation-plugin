@@ -8,7 +8,7 @@
  * @version	2.1.6
  * @license     GPL
  * @link	https://github.com/bukowski12/roundcube-vacation-plugin
- * @todo	See README.TXT
+ * @todo	See README.md
  *
  * Contributions by Johnson Chow
  * Changes to work with Round Cube 1.2.4 and UTF-8 : neil77pl

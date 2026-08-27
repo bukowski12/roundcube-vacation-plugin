@@ -6,7 +6,7 @@ Installation procedure
 4) chown $apache_user plugins/vacation/config.ini
 5) chmod 0400 plugins/vacation/config.ini
 
-See README.TXT for additional information and requirements for each driver.
+See README.md for additional information and requirements for each driver.
 
 Valid config.ini configuration options
 --------------------------------------
